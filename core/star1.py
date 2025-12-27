@@ -1,10 +1,9 @@
 # Start Pattern program in python
+
 i = 1
-
-
-while i <= 5:  # 1
+while i <= 5: 
     j = 1
-    while j <= i: # 
+    while j <= i: 
         print('*' , end=" ")
         j = j + 1 
     
